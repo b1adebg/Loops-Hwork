@@ -1,0 +1,6 @@
+C:\Users\LoraMC\Documents\Visual Studio 2013\Projects\Loops\17CalculateGcd\bin\Debug\17CalculateGcd.exe.config
+C:\Users\LoraMC\Documents\Visual Studio 2013\Projects\Loops\17CalculateGcd\bin\Debug\17CalculateGcd.exe
+C:\Users\LoraMC\Documents\Visual Studio 2013\Projects\Loops\17CalculateGcd\bin\Debug\17CalculateGcd.pdb
+C:\Users\LoraMC\Documents\Visual Studio 2013\Projects\Loops\17CalculateGcd\obj\Debug\17CalculateGcd.csprojResolveAssemblyReference.cache
+C:\Users\LoraMC\Documents\Visual Studio 2013\Projects\Loops\17CalculateGcd\obj\Debug\17CalculateGcd.exe
+C:\Users\LoraMC\Documents\Visual Studio 2013\Projects\Loops\17CalculateGcd\obj\Debug\17CalculateGcd.pdb
