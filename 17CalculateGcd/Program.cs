@@ -16,7 +16,7 @@ class Program
             bigger = smaller;
             smaller = rem;
         }
-        Console.WriteLine(bigger);
+        Console.WriteLine("Gdc for {0} and {1} is {2}",a, b, bigger);
     }
 }
 
